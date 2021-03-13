@@ -1,0 +1,29 @@
+.one__Button {
+  width: 100px;
+  height: 30px;
+  background-color: blue;
+  border-radius: 10px;
+  color: white;
+  cursor: pointer;
+  margin: 0 20px;
+}
+
+.one__Button:hover {
+  background-color: yellow;
+  color: blue;
+}
+
+.twe__Button {
+  width: 100px;
+  height: 30px;
+  background-color: white;
+  border-radius: 10px;
+  color: blue;
+  margin: 0 20px;
+  cursor: pointer;
+}
+
+.twe__Button:hover {
+  background-color: brown;
+  color: white;
+}
